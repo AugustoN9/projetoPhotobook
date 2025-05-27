@@ -1,19 +1,5 @@
 [
-  {
-    "src": "imagens/convidados1.jpg",
-    "alt": "Convidados sorrindo",
-    "categoria": "convidados"
-  },
-  {
-    "src": "imagens/brincadeiras1.jpg",
-    "alt": "Crianças brincando na piscina de bolinhas",
-    "categoria": "brincadeiras"
-  },
-  {
-    "src": "imagens/hora-brincadeiras1.jpg",
-    "alt": "Hora das brincadeiras com animador",
-    "categoria": "hora-brincadeiras"
-  },
+  
   {
     "src": "imagens/mesa/IMG_6290.jpg",
     "alt": "Mesa com convidados se divertindo",
@@ -1134,5 +1120,675 @@
     "src": "imagens/aniversariante/IMG_7044.jpg",
     "alt": "Fotos do aniversariante durante a festa",
     "categoria": "aniversariante"
+  },
+  {
+    "src": "imagens/convidados/IMG_6122.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6123.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6124.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6330.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6334.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6340.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6344.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6348.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6368.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6371.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6374.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6376.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6379.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6380.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6434.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6440.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6448.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6449.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6456.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6459.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6460.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6464.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6472.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6473.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6474.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6477.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6485.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6487.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6488.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6509.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6511.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6515.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6516.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6541.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6544.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6545.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6546.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6548.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6551.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6556.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6557.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6559.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6561.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6563.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6565.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6592.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6636.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6638.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6640.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6951.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6953.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6981.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6984.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6987.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6991.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_6999.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_7005.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_7006.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_7021.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_7052.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_7053.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_7061.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_7062.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_7066.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_7069.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_7072.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_7073.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_7077.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_7078.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_7082.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_7086.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_7088.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_7108.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_7109.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_7110.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_7113.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_7115.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_7116.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_7118.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_7124.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_7126.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_7129.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_7130.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_7132.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_7136.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_7143.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_7145.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_7154.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_7157.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_7164.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_7170.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/convidados/IMG_7171.jpg",
+    "alt": "Convidados celebrando o aniversário",
+    "categoria": "convidados"
+  },
+  {
+    "src": "imagens/brincadeiras/IMG_6383.jpg",
+    "alt": "Brincadeira durante a festa",
+    "categoria": "brincadeiras"
+  },
+  {
+    "src": "imagens/brincadeiras/IMG_6535.jpg",
+    "alt": "Brincadeira durante a festa",
+    "categoria": "brincadeiras"
+  },
+  {
+    "src": "imagens/brincadeiras/IMG_6536.jpg",
+    "alt": "Brincadeira durante a festa",
+    "categoria": "brincadeiras"
+  },
+  {
+    "src": "imagens/brincadeiras/IMG_6537.jpg",
+    "alt": "Brincadeira durante a festa",
+    "categoria": "brincadeiras"
+  },
+  {
+    "src": "imagens/brincadeiras/IMG_6568.jpg",
+    "alt": "Brincadeira durante a festa",
+    "categoria": "brincadeiras"
+  },
+  {
+    "src": "imagens/brincadeiras/IMG_6572.jpg",
+    "alt": "Brincadeira durante a festa",
+    "categoria": "brincadeiras"
+  },
+  {
+    "src": "imagens/brincadeiras/IMG_6577.jpg",
+    "alt": "Brincadeira durante a festa",
+    "categoria": "brincadeiras"
+  },
+  {
+    "src": "imagens/brincadeiras/IMG_6579.jpg",
+    "alt": "Brincadeira durante a festa",
+    "categoria": "brincadeiras"
+  },
+  {
+    "src": "imagens/brincadeiras/IMG_6580.jpg",
+    "alt": "Brincadeira durante a festa",
+    "categoria": "brincadeiras"
+  },
+  {
+    "src": "imagens/brincadeiras/IMG_6582.jpg",
+    "alt": "Brincadeira durante a festa",
+    "categoria": "brincadeiras"
+  },
+  {
+    "src": "imagens/brincadeiras/IMG_6584.jpg",
+    "alt": "Brincadeira durante a festa",
+    "categoria": "brincadeiras"
+  },
+  {
+    "src": "imagens/brincadeiras/IMG_6586.jpg",
+    "alt": "Brincadeira durante a festa",
+    "categoria": "brincadeiras"
+  },
+  {
+    "src": "imagens/brincadeiras/IMG_6590.jpg",
+    "alt": "Brincadeira durante a festa",
+    "categoria": "brincadeiras"
+  },
+  {
+    "src": "imagens/brincadeiras/IMG_6593.jpg",
+    "alt": "Brincadeira durante a festa",
+    "categoria": "brincadeiras"
+  },
+  {
+    "src": "imagens/brincadeiras/IMG_6599.jpg",
+    "alt": "Brincadeira durante a festa",
+    "categoria": "brincadeiras"
+  },
+  {
+    "src": "imagens/brincadeiras/IMG_6603.jpg",
+    "alt": "Brincadeira durante a festa",
+    "categoria": "brincadeiras"
+  },
+  {
+    "src": "imagens/brincadeiras/IMG_6604.jpg",
+    "alt": "Brincadeira durante a festa",
+    "categoria": "brincadeiras"
+  },
+  {
+    "src": "imagens/brincadeiras/IMG_6605.jpg",
+    "alt": "Brincadeira durante a festa",
+    "categoria": "brincadeiras"
+  },
+  {
+    "src": "imagens/brincadeiras/IMG_6607.jpg",
+    "alt": "Brincadeira durante a festa",
+    "categoria": "brincadeiras"
+  },
+  {
+    "src": "imagens/brincadeiras/IMG_6608.jpg",
+    "alt": "Brincadeira durante a festa",
+    "categoria": "brincadeiras"
+  },
+  {
+    "src": "imagens/brincadeiras/IMG_6609.jpg",
+    "alt": "Brincadeira durante a festa",
+    "categoria": "brincadeiras"
+  },
+  {
+    "src": "imagens/brincadeiras/IMG_6614.jpg",
+    "alt": "Brincadeira durante a festa",
+    "categoria": "brincadeiras"
+  },
+  {
+    "src": "imagens/brincadeiras/IMG_6615.jpg",
+    "alt": "Brincadeira durante a festa",
+    "categoria": "brincadeiras"
+  },
+  {
+    "src": "imagens/brincadeiras/IMG_6652.jpg",
+    "alt": "Brincadeira durante a festa",
+    "categoria": "brincadeiras"
+  },
+  {
+    "src": "imagens/brincadeiras/IMG_6654.jpg",
+    "alt": "Brincadeira durante a festa",
+    "categoria": "brincadeiras"
+  },
+  {
+    "src": "imagens/brincadeiras/IMG_6656.jpg",
+    "alt": "Brincadeira durante a festa",
+    "categoria": "brincadeiras"
+  },
+  {
+    "src": "imagens/brincadeiras/IMG_6659.jpg",
+    "alt": "Brincadeira durante a festa",
+    "categoria": "brincadeiras"
+  },
+  {
+    "src": "imagens/brincadeiras/IMG_6666.jpg",
+    "alt": "Brincadeira durante a festa",
+    "categoria": "brincadeiras"
+  },
+  {
+    "src": "imagens/brincadeiras/IMG_6668.jpg",
+    "alt": "Brincadeira durante a festa",
+    "categoria": "brincadeiras"
+  },
+  {
+    "src": "imagens/brincadeiras/IMG_6669.jpg",
+    "alt": "Brincadeira durante a festa",
+    "categoria": "brincadeiras"
+  },
+  {
+    "src": "imagens/brincadeiras/IMG_6673.jpg",
+    "alt": "Brincadeira durante a festa",
+    "categoria": "brincadeiras"
+  },
+  {
+    "src": "imagens/brincadeiras/IMG_6674.jpg",
+    "alt": "Brincadeira durante a festa",
+    "categoria": "brincadeiras"
+  },
+  {
+    "src": "imagens/brincadeiras/IMG_6678.jpg",
+    "alt": "Brincadeira durante a festa",
+    "categoria": "brincadeiras"
+  },
+  {
+    "src": "imagens/brincadeiras/IMG_6692.jpg",
+    "alt": "Brincadeira durante a festa",
+    "categoria": "brincadeiras"
+  },
+  {
+    "src": "imagens/brincadeiras/IMG_6694.jpg",
+    "alt": "Brincadeira durante a festa",
+    "categoria": "brincadeiras"
+  },
+  {
+    "src": "imagens/brincadeiras/IMG_6698.jpg",
+    "alt": "Brincadeira durante a festa",
+    "categoria": "brincadeiras"
+  },
+  {
+    "src": "imagens/brincadeiras/IMG_6707.jpg",
+    "alt": "Brincadeira durante a festa",
+    "categoria": "brincadeiras"
+  },
+  {
+    "src": "imagens/brincadeiras/IMG_6708.jpg",
+    "alt": "Brincadeira durante a festa",
+    "categoria": "brincadeiras"
+  },
+  {
+    "src": "imagens/brincadeiras/IMG_6729.jpg",
+    "alt": "Brincadeira durante a festa",
+    "categoria": "brincadeiras"
+  },
+  {
+    "src": "imagens/brincadeiras/IMG_6733.jpg",
+    "alt": "Brincadeira durante a festa",
+    "categoria": "brincadeiras"
+  },
+  {
+    "src": "imagens/brincadeiras/IMG_7013.jpg",
+    "alt": "Brincadeira durante a festa",
+    "categoria": "brincadeiras"
+  },
+  {
+    "src": "imagens/brincadeiras/IMG_7047.jpg",
+    "alt": "Brincadeira durante a festa",
+    "categoria": "brincadeiras"
   }
 ]
